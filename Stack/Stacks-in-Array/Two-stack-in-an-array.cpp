@@ -1,4 +1,4 @@
-/*Implement two stack in an array
+/*----------Implement two stack in an array----------
 * In this exercise we will implement two stack inside an array.
 * In order to utilize the full space of array we will start two stacks from the two extreme corners of the array.
 * That is 1st stack from the 0 index of the array and 2nd stack form the (n-1) index of the array.
