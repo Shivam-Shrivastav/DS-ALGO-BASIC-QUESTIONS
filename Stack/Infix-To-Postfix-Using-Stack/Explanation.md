@@ -8,7 +8,7 @@
 
 > **Need of Postfix Expression :**
 
-*Why we need a postfix expression ?*
+*Why do we need a postfix expression ?*
 * The answer is since compiler scan a string form left to right, so for complex expression like ((a+b)*(c-d)-e)*f the complier has to scan the expression 4 times inorder to evaluate correct value of the expression.
 
 * The postfix expression make the work of compiler easy as in postfix expression the compiler has to scan only once to evaluate the the complex expression as above.
