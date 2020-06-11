@@ -33,3 +33,5 @@
 * We will make a vector since size of vector can be increased during the run time. 
 
 * And we will make a stack to insert the first decimal number to it later this decimal number we will append 0 and 1 to generate further binary numbers.
+
+> *FOR MORE DETAILED EXPLANATION CHECK OUT THIS LINK :*  [CLICK HERE](https://www.youtube.com/watch?v=kL9KgvZs4e0 "YouTube Link")
